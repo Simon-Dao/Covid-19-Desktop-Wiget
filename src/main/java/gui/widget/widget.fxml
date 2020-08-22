@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="rootPane" prefHeight="131.0" prefWidth="475.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.widget.WidgetController">
+   <children>
+      <VBox prefHeight="136.0" prefWidth="312.0" spacing="5.0" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="20.0">
+         <children>
+            <Label styleClass="main-title" text="Covid-19 Information" textFill="WHITE">
+               <font>
+                  <Font size="14.0" />
+               </font></Label>
+            <HBox alignment="CENTER_LEFT" prefHeight="52.0" prefWidth="600.0" spacing="25.0">
+               <children>
+                  <ImageView fitHeight="22.0" fitWidth="22.0">
+                     <image>
+                        <Image url="@../../../../../src/main/res/globe.png" />
+                     </image>
+                  </ImageView>
+                  <Text fx:id="textGlobalReport" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="content-text" text="Cases ... | Recovered ... | Deaths ..." />
+               </children></HBox>
+            <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="200.0" spacing="25.0">
+               <children>
+                  <Text fx:id="textGlobalCode" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="country-title" text="Country" />
+                  <Text fx:id="textCountryReport" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="content-text" text="Cases ... | Recovered ... | Deaths ..." />
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>

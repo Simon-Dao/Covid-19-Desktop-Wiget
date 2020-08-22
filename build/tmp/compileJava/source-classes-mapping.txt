@@ -1,0 +1,20 @@
+datafetch/CovidApi.java
+ datafetch.CovidApi
+datafetch/GlobalData.java
+ datafetch.GlobalData
+datafetch/DataProviderService.java
+ datafetch.DataProviderService
+ datafetch.DataProviderService$1
+ datafetch.DataProviderService$2
+config/ConfigurationService.java
+ config.ConfigurationService
+datafetch/CountryData.java
+ datafetch.CountryData
+datafetch/CovidDataModel.java
+ datafetch.CovidDataModel
+config/ConfigModel.java
+ config.ConfigModel
+Launch.java
+ Launch
+gui/widget/WidgetController.java
+ gui.widget.WidgetController

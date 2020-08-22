@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2db709e-9e1b-44ea-89b1-0c67cd731380" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../3DGame/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/.idea/libraries/libs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/3DGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-assimp-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-assimp-natives-windows.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-assimp-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-assimp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-bgfx-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-bgfx-natives-windows.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-bgfx-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-bgfx.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-glfw-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-glfw-natives-windows.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-glfw-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-glfw.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-nanovg-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-nanovg-natives-windows.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-nanovg-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-nanovg.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-natives-windows.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-nuklear-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-nuklear-natives-windows.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-nuklear-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-nuklear.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-openal-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-openal-natives-windows.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-openal-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-openal.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-opengl-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-opengl-natives-windows.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-opengl-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-opengl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-par-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-par-natives-windows.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-par-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-par.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-stb-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-stb-natives-windows.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-stb-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-stb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-vulkan-javadoc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-vulkan-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl-vulkan.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/libs/lwjgl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/src/Engine/Utils/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/src/Graphics/Renderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/src/Graphics/Shader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/src/IO/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/src/IO/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/src/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/src/Maths/Mesh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/src/Maths/Vector3f.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/src/Maths/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/src/shaders/mainFragment.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3DGame/src/shaders/mainVertex.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BoidSimulation/BoidSimulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BoidSimulation/src/sample/Boid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BoidSimulation/src/sample/BoundaryEnvironment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BoidSimulation/src/sample/Boundry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BoidSimulation/src/sample/ImprovedNoise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BoidSimulation/src/sample/SensorRay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cheng_Bot/Cheng_Bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cheng_Bot/src/main/java/Console.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cheng_Bot/src/main/java/FoodEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cheng_Bot/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.6/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/Launch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/config/ConfigModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/config/ConfigurationService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/datafetch/CountryData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/datafetch/CovidApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/datafetch/CovidDataModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/datafetch/DataProviderService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/datafetch/DataProviderService$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/datafetch/DataProviderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/datafetch/GlobalData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/gui/widget/WidgetController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/globe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/gui/widget/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/gui/widget/widget.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-crt-multibyte-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-crt-private-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/concrt140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/decora_sse.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/fxplugins.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/glass.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/glib-lite.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/gstreamer-lite.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/javafx_font.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/javafx_iio.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/jfxmedia.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/jfxwebkit.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/msvcp140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/prism_common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/prism_d3d.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/prism_sw.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/ucrtbase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/bin/vcruntime140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.base/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.base/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.base/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.controls/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.controls/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.controls/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.fxml/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.fxml/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.fxml/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.graphics/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.graphics/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.graphics/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.graphics/jpeg_fx.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.media/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.media/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.media/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.media/applecoreaudio.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.media/glib.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.media/gstreamer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.media/libffi.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.swing/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.swing/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.swing/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.web/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.web/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.web/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.web/icu_web.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.web/libxml2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.web/libxslt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/legal/javafx.web/webkit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/lib/javafx-swt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/lib/javafx.base.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/lib/javafx.controls.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/lib/javafx.fxml.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/lib/javafx.graphics.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/lib/javafx.media.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/lib/javafx.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/lib/javafx.swing.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/lib/javafx.web.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javafx-sdk-11.0.2/lib/src.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/Launch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/datafetch/CountryData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/datafetch/CovidApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/datafetch/CovidDataModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/datafetch/DataProviderService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/datafetch/DataProviderService$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/datafetch/DataProviderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/datafetch/GlobalData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/gui/widget/WidgetController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Launch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/ConfigModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/ConfigurationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datafetch/CountryData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datafetch/CovidApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datafetch/CovidDataModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datafetch/DataProviderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datafetch/GlobalData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/widget/WidgetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/widget/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/widget/widget.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/globe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DdaAlgorithm/DdaAlgorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DdaAlgorithm/src/DDA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoomRenderer/DoomRenderer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DoomRenderer/src/sample/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EDP445/EDP445.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EDP445/src/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FluteProgram/FluteProgram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GeneticAlgorithm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GeneticAlgorithm/GeneticAlgorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GeneticAlgorithm/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MessengerProgram/.idea/libraries/mysql_connector_java_8_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MessengerProgram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MessengerProgram/MessengerProgram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oregon_Trail/Oregon_Trail.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oregon_Trail/src/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oregon_Trail/src/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oregon_Trail/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oregon_Trail/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oregon_Trail/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PathFinder/PathFinder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PathFinder/src/sample/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PathFinder/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PathFinder/src/sample/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PathFinder/src/sample/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PowerSchool/PowerSchool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PowerSchool/src/Window/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PowerSchool/src/database/QueryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PowerSchool/src/database/Sql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PowerSchool/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PowerSchool/src/main/NameGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PowerSchool/src/ux/UIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PowerSchool/src/ux/UXTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PowerSchool/src/ux/grading/AssignmentsTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PowerSchool/src/ux/grading/GradesTab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PowerSchool/src/ux/grading/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PowerSchool/src/ux/periods/ClassesWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RayCaster/.idea/RayCaster.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/.idea/libraries/mysql_connector_java_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/SQLInjection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/database/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/first.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/last.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/main/NameGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/main/WindowListeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/ui/Gui/GraderWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/ui/Gui/LeftWidget/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/ui/Gui/LeftWidget/ClassesWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/ui/Gui/LoginWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/ui/Gui/SearchWidget/SearchWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/ui/Gui/TableWidget/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/ui/Gui/TableWidget/TableWiget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/ui/Gui/TableWidget/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/ui/tableView/EditableTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/ui/tableView/EditingCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQLInjection/src/ui/tableView/TableContentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SoundCap/SoundCap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlApplication/.idea/libraries/mysql_connector_java_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlApplication/SqlApplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlApplication/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TankTrouble/TankTrouble.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TankTrouble/src/main/Bullet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TankTrouble/src/main/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/libraries/activation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/libraries/com_google_code_gson_gson_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/libraries/javax_mail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/OpenSimplexNoise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/PlayerTracker (1).jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/Yknow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/src/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypePractice/.idea/libraries/com_google_code_gson_gson_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypePractice/.idea/libraries/java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypePractice/TypePractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypePractice/src/sample/LevelMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypePractice/src/sample/LocalData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypePractice/src/sample/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TypePractice/src/sample/Typer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VectorSimulation/VirusSimulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VectorSimulation/src/program/ImprovedNoise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VectorSimulation/src/program/Ligma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VectorSimulation/src/program/Panel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VectorSimulation/src/program/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CircleGame" beforeDir="false" afterPath="$PROJECT_DIR$/../CircleGame" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitTest" beforeDir="false" afterPath="$PROJECT_DIR$/../GitTest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Green_House_Simulation" beforeDir="false" afterPath="$PROJECT_DIR$/../Green_House_Simulation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/.idea/Messenger.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/Messenger.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/META-INF/Messenger.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/client/Friend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/client/LocalUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/client/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/database/DataBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/database/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/gui/AppUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/gui/AppUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/gui/Contacts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/gui/MessageArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/gui/SearchBarSection$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/gui/SearchBarSection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/gui/UITools$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/gui/UITools$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/gui/UITools.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/gui/WindowControls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/main/Style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/AutoCompletePopup$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/AutoCompletePopup$SuggestionEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/AutoCompletePopup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/AutoCompletePopupSkin$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/AutoCompletePopupSkin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/AutoCompletionBinding$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/AutoCompletionBinding$AutoCompletionEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/AutoCompletionBinding$FetchSuggestionsTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/AutoCompletionBinding$ISuggestionRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/AutoCompletionBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/AutoCompletionTextFieldBinding$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/AutoCompletionTextFieldBinding$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/AutoCompletionTextFieldBinding$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/AutoCompletionTextFieldBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/CustomPasswordField$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/CustomPasswordField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/CustomTextField$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/CustomTextField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/CustomTextFieldSkin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/SuggestionProvider$SuggestionProviderString$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/SuggestionProvider$SuggestionProviderString$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/SuggestionProvider$SuggestionProviderString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/SuggestionProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/TextFields$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/TextFields.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/popup/autocompletion.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/res/arrow_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/res/noun_Arrow_2427329.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/res/noun_Friend_2326312.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/server/ClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/server/DataBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/out/production/Messenger/server/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/client/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/client/Friend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/client/LocalUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/database/DataBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/database/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/gui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/main/Style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/popup/AutoCompletePopup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/popup/AutoCompletePopupSkin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/popup/AutoCompletionBinding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/popup/AutoCompletionTextFieldBinding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/popup/CustomPasswordField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/popup/CustomTextField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/popup/CustomTextFieldSkin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/popup/SuggestionProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/popup/TextFields.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/popup/autocompletion.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/popup/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/res/arrow_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/res/noun_Arrow_2427329.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/res/noun_Friend_2326312.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/server/ClientHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/src/server/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Messenger/userinfo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/.idea/ant.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/MessengerApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/client/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/client/Friend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/client/LocalUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/database/DataBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/database/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/gui/Contacts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/gui/LoginWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/gui/MessageArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/gui/SearchBarSection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/gui/SignUpWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/gui/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/gui/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/gui/WindowControls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/main/Style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/popup/AutoCompletePopup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/popup/AutoCompletePopupSkin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/popup/AutoCompletionBinding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/popup/AutoCompletionTextFieldBinding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/popup/CustomPasswordField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/popup/CustomTextField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/popup/CustomTextFieldSkin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/popup/SuggestionProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/popup/TextFields.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/popup/autocompletion.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/popup/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/res/arrow_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/res/noun_Arrow_2427329.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/res/noun_Friend_2326312.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/server/ClientHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MessengerApp/src/src/server/Server.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CovidDesktopWidget" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gQK0zM6n7XBoZzAoljmUTd3fBR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Program Files (x86)/Oracle/JavaFX Scene Builder 2.0/JavaFX Scene Builder 2.0.exe" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gamer\IdeaProjects\CovidDesktopWidget\src\main\res" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.CovidDesktopWidget [run]">
+    <configuration name="Launch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Launch" />
+      <module name="CovidDesktopWidget.main" />
+      <option name="VM_PARAMETERS" value="--module-path $PROJECT_DIR$/../PowerSchool/lib/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CovidDesktopWidget [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Launch" />
+      <item itemvalue="Gradle.CovidDesktopWidget [run]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CovidDesktopWidget [run]" />
+        <item itemvalue="Application.Launch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2db709e-9e1b-44ea-89b1-0c67cd731380" name="Default Changelist" comment="" />
+      <created>1598041156170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598041156170</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598045071867">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1598045071867" />
+    <state x="613" y="307" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598055605802">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="613" y="307" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1598055605802" />
+    <state x="469" y="192" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1598055581675">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="469" y="192" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1598055581675" />
+    <state x="645" y="211" key="#com.intellij.ide.util.MemberChooser" timestamp="1598062619406">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="645" y="211" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1598062619406" />
+    <state x="456" y="67" key="CommitChangelistDialog2" timestamp="1598116820585">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="456" y="67" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1598116820585" />
+    <state x="160" y="82" key="DiffContextDialog" timestamp="1598116819007">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="160" y="82" key="DiffContextDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1598116819007" />
+    <state x="620" y="246" key="FileChooserDialogImpl" timestamp="1598054375487">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="246" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1598054375487" />
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1598121740749">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1598121740749" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1598121740749">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1598121740749" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1598121740748">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1598121740748" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1598121740749">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1598121740749" />
+    <state x="341" y="150" key="SettingsEditor" timestamp="1598052354626">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="150" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1598052354626" />
+    <state x="649" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598078546113">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="649" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010@0.0.1680.1010" timestamp="1598078546113" />
+    <state x="477" y="115" key="new project wizard" timestamp="1598044271977">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="477" y="115" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1598044271977" />
+  </component>
+</project>
